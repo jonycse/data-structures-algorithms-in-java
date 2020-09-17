@@ -1,30 +1,23 @@
-## Sorting
+#### Sorting algorithms with [tests][1]
 
-+ [Merge sort][2]
++ __Merge sort__
     + Time complexity O(nLog(n))
     + Space complexity O(n) for Auxiliary space
-+ [Heap sort][3] Watch on [Youtube][7]    
++ __Heap sort__
     + Time complexity O(nLog(n))
     + Space complexity O(1)
-+ [Quick sort][4] Video of [QSort Partitioning][6]    
++ __Quick sort__    
     + Time complexity O(nLog(n)), if data are not already sorted
     + Space complexity O(logn)
-+ [Bubble Sort][1]
++ __Bubble Sort__
     + Time complexity O(n * n)
     + Space complexity O(1)
-+ [Insertion Sort][5]    
++ __Insertion Sort__ 
     + Time complexity O(n * n)
     + Space complexity O(1)
     
 
-
-[7]: https://www.youtube.com/watch?v=MtQL_ll5KhQ
-[6]: https://www.youtube.com/watch?v=PgBzjlCcFvc
-[5]: https://www.programiz.com/dsa/insertion-sort
-[1]: https://www.geeksforgeeks.org/bubble-sort/    
-[2]: https://www.programiz.com/dsa/merge-sort
-[3]: https://www.programiz.com/dsa/heap-sort
-[4]: https://www.programiz.com/dsa/quick-sort
+[1]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/test/java/dsalgo/sort
 
 
 
