@@ -5,8 +5,17 @@
 + [Linklist][2]
 + __Tree__
     + [Segment tree][3]
+    + [Trie][4]
 
 
+
+
+
+
+
+
+
+[4]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/tree/trie
 [3]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/tree/segment
 [2]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/linklist
 [1]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/sort
