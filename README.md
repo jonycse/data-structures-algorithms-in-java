@@ -10,6 +10,8 @@
     + [BST][5]
     + [Trie][4]
     + [Segment tree][3]    
++ __graph__
+    + [BFS][11]    
 + [Binary search][8]
 + [Disjoint-set][10]
 
@@ -18,8 +20,7 @@
 
 
 
-
-
+[11]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/graph/bfs
 [10]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/set
 [9]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/stackqueue
 [8]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/binarysearch
