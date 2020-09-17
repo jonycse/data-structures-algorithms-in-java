@@ -11,6 +11,7 @@
     + [Trie][4]
     + [Segment tree][3]    
 + [Binary search][8]
++ [Disjoint-set][10]
 
 
 
@@ -19,6 +20,7 @@
 
 
 
+[10]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/set
 [9]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/stackqueue
 [8]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/binarysearch
 [7]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/tree/binarytree
