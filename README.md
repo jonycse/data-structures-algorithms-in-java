@@ -4,9 +4,11 @@
 + [Sorting][1]
 + [Linklist][2]
 + __Tree__
-    + [Segment tree][3]
-    + [Trie][4]
+    + [Tree traversal][6]
     + [BST][5]
+    + [Trie][4]
+    + [Segment tree][3]
+    
 
 
 
@@ -16,6 +18,7 @@
 
 
 
+[6]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/tree/traversal
 [5]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/tree/bst
 [4]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/tree/trie
 [3]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/tree/segment
