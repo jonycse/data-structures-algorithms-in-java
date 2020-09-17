@@ -8,8 +8,8 @@
     + [Binary tree][7]
     + [BST][5]
     + [Trie][4]
-    + [Segment tree][3]
-    
+    + [Segment tree][3]    
++ [Binary search][8]
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-
+[8]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/binarysearch
 [7]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/tree/binarytree
 [6]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/tree/traversal
 [5]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/tree/bst
