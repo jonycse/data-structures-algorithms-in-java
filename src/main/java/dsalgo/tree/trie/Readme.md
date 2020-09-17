@@ -1,7 +1,14 @@
 #### [Trie][4] data structure with [tests][1]
 
 
+#### Topics covered
++ Trie insert, search, delete
++ Find prefix words (sorted auto-complete feature)
+
+##### Links
 + [Trie topcoder][2]
+
+##### Problems
 + [leetcode word-search-ii][3]
 
 ### Complexity
