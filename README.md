@@ -14,6 +14,7 @@
     + [BFS][11]    
     + [DFS][12]    
     + [Dijkstra][13]    
+    + [Mst][14]
 + [Binary search][8]
 + [Disjoint-set][10]
 
@@ -22,6 +23,7 @@
 
 
 
+[14]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/graph/mst
 [13]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/graph/dijkstra
 [12]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/graph/dfs
 [11]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/graph/bfs
