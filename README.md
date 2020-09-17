@@ -1,6 +1,7 @@
 ## Data structures and algorithms in java
 
 
++ [Stack and Queue][9]
 + [Sorting][1]
 + [Linklist][2]
 + __Tree__
@@ -18,6 +19,7 @@
 
 
 
+[9]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/stackqueue
 [8]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/binarysearch
 [7]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/tree/binarytree
 [6]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/tree/traversal
