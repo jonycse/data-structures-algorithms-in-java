@@ -7,7 +7,7 @@
 + TSP
 
 
-![Graph](https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/test/java/dsalgo/graph/tsp/tsp.png)
+![Graph](https://github.com/jonycse/data-structures-algorithms-in-java/blob/master/src/main/java/dsalgo/graph/tsp/tsp.png)
 
 
 Images are copied from [geeksforgeeks][2]
