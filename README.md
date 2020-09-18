@@ -15,6 +15,7 @@
     + [DFS][12]    
     + [Dijkstra][13]    
     + [Mst][14]
+    + [TSP travelling-salesman-problem][15]
 + [Binary search][8]
 + [Disjoint-set][10]
 
@@ -23,6 +24,7 @@
 
 
 
+[15]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/graph/tsp
 [14]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/graph/mst
 [13]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/graph/dijkstra
 [12]: https://github.com/jonycse/data-structures-algorithms-in-java/tree/master/src/main/java/dsalgo/graph/dfs
