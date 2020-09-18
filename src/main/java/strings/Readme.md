@@ -1,6 +1,6 @@
 #### Common strings problems with [tests][1]
 
-#### Topics covered
+##### Topics covered
 + KMP pattern matching
 + String Add
 + String Subtraction
